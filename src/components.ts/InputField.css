@@ -1,0 +1,11 @@
+.input{
+    display:flex;
+    width:90%;
+    position:relative;
+    align-items:center;
+}
+.input_box:focus{
+    box-shadow:0 0 1000px rgba(0,0,0,0.5);
+    outline:none;
+
+}
